@@ -56,9 +56,15 @@ If you want to evaluate your model, you can submit to [KADIF Challenge Leaderboa
 
 ### Quantitative Results
 
-![](table1.jpg)
+<div align="center">
+  <img src="table1.jpg" width="600"/>
+</div>
 
-![](table2.jpg)
+<br/>
+
+<div align="center">
+  <img src="table2.jpg" width="600"/>
+</div>
 
 ### Qualitative Results
 

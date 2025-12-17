@@ -65,14 +65,17 @@ If you want to evaluate your model, you can submit to [KADIF Challenge Leaderboa
 #### log0007_0000028
 
 | QCNet | Ours |
-| ![](qcnet_log_0007_0000028.png) | ![](sgnet3_log_0007_0000028.png) |
-| ![](log_0007_0000028_qcnet_predpoints.gif) | ![](log_0007_0000028_sgnet3_predpoints.gif) |
+|:-----:|:----:|
+| <img src="qcnet_log_0007_0000028.png" width="350"/> | <img src="sgnet3_log_0007_0000028.png" width="350"/> |
+| <img src="log_0007_0000028_qcnet_predpoints.gif" width="350"/> | <img src="log_0007_0000028_sgnet3_predpoints.gif" width="350"/> |
 
 #### log0008_0000082
 
 | QCNet | Ours |
-| ![](qcnet_log_0008_0000082.png) | ![](sgnet3_log_0008_0000082.png) |
-| ![](log_0008_0000082_qcnet_predpoints.gif) | ![](log_0008_0000082_sgnet3_predpoints.gif) |
+|:-----:|:----:|
+| <img src="qcnet_log_0008_0000082.png" width="350"/> | <img src="sgnet3_log_0008_0000082.png" width="350"/> |
+| <img src="log_0008_0000082_qcnet_predpoints.gif" width="350"/> | <img src="log_0008_0000082_sgnet3_predpoints.gif" width="350"/> |
+
 
 ## Citation
 

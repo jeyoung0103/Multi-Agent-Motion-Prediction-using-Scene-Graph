@@ -6,10 +6,11 @@
 * [Pretrained Models & Results](#pretrained-models--results)
 * [Citation](#citation)
 
-* ## Getting Started
+## Getting Started
 
 **Step 1**: clone this repository
 
 **Step 2**: create a docker environment : Docker 사용법.md
 
-**Step 3**: 
+**Step 3**: Download the ETRI Trajectory Dataset : 
+You can download the [ETRI Trajectory Dataset](https://epretx.etri.re.kr/dataDetail?id=455).

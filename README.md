@@ -14,3 +14,7 @@
 
 **Step 3**: Download the ETRI Trajectory Dataset : 
 You can download the [ETRI Trajectory Dataset](https://epretx.etri.re.kr/dataDetail?id=455).
+
+## Training & Evaluation
+
+I trained the model on 2 NVIDIA GeForce RTX A5000.
